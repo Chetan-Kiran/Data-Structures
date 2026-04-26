@@ -32,4 +32,12 @@ This repository is for learning and practicing data structures and algorithms. I
 - Run the Java files using your favorite IDE or the command line.
 - Python scripts can be run directly with Python 3.
 
+## workflow
+
+git config user.name "Chetan_Kiran"     
+git config user.email "chetankiran9666@gmail.com"
+git add file path
+git commit -m "B.S"
+git push origin main
+
 ---
